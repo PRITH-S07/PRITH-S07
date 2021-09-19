@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 
 - 🔭 I’m currently a student studying Computer Science.
 - 🌱 I’m a Deep Learning and Machine Learning enthusiast who has worked on understanding an array of networks in deep learning.
