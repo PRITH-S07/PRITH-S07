@@ -10,7 +10,8 @@
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PRITH-S07&langs_count=5&theme=tokyonight)]()
 
-## Toolbox:<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/tensorflow/tensorflow-original-wordmark.svg" alt="CSS" width="100" height="100"/> 
+## Toolbox:
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/tensorflow/tensorflow-original-wordmark.svg" alt="CSS" width="200" height="50"/> 
 
 
 <!--
