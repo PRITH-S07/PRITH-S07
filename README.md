@@ -1,7 +1,7 @@
 ### Hey there 👋
 
 - 🔭 I’m currently a student studying Computer Science.
-- 🌱 I’m a Deep Learning,Machine Learning and AI enthusiast who has worked on understanding an array of algorithms in these fields.
+- 🌱 I’m a Deep Learning, Machine Learning, NLP and AI enthusiast who has worked on understanding an array of algorithms in these fields.
 - 📫 You could get in touch by sending me a mail to: reachp710@gmail.com
 - ⚡ I strongly believe in the power of Deep Learning and the impact it can have.
 - ✨ Also, I'm a math aficionado with a specific interest in the domains of Calculus and Statistics.
