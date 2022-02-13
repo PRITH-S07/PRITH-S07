@@ -13,7 +13,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=PRITH-S07&column=7"/>
   </a>
 </div>
-<br>
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=PRITH-S07&count_private=true&theme=tokyonight&showicons=true)]()
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PRITH-S07&langs_count=5&theme=tokyonight)]()
