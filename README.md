@@ -6,14 +6,6 @@
 - ⚡ I strongly believe in the power of Deep Learning and the impact it can have.
 - ✨ Also, I'm a math aficionado with a specific interest in the domains of Calculus and Statistics.
 
-<hr>
-<div>
-  <h4>🏆 Github Profile Trophy</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=PRITH-S07&column=7"/>
-  </a>
-</div>
-
 <hr/>
   <img src = "https://activity-graph.herokuapp.com/graph?username=PRITH-S07&theme=material-palenight&hide_border=true" alt = "Contribution graph"/>
 <hr/>
