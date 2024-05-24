@@ -4,8 +4,6 @@
 - 🌱 I’m currently pursuing a degree in AI.
 - ⚡ "Data is the new oil"
 - ✨ Mathematics powers cross-sectoral data usage. 
-
-<hr/>
 <!--
 **PRITH-S07/PRITH-S07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
