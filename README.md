@@ -1,9 +1,9 @@
 ### Hey there 👋
 
-<!-- - 🔭 I’m currently a student pursuing my Bachelor's degree. -->
-- 🌱 I’m a Deep Learning, Machine Learning and AI enthusiast who has worked on understanding an array of algorithms in these fields.
-- ⚡ I strongly believe in the power of Deep Learning and the impact it can have.
-- ✨ Also, I'm a math aficionado with a specific interest in the domains of Calculus and Statistics.
+<!-- - 🔭 Welcome to my GitHub! -->
+- 🌱 I’m currently pursuing a degree in AI.
+- ⚡ "Data is the new oil"
+- ✨ Mathematics powers cross-sectoral data usage. 
 
 <hr/>
   <img src = "https://activity-graph.herokuapp.com/graph?username=PRITH-S07&theme=material-palenight&hide_border=true" alt = "Contribution graph"/>
