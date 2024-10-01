@@ -1,9 +1,7 @@
 ### Hey there 👋
 
 <!-- - 🔭 Welcome to my GitHub! -->
-- 🌱 I’m currently pursuing a degree in AI.
-- ⚡ "Data is the new oil"
-- ✨ Mathematics powers cross-sectoral data usage.
+- I’m currently pursuing a degree in AI.
 - I write blogs too! Do check out my Medium profile: in [TheAIEnthusiast](https://medium.com/@Prith_Sharma)
 - The current blogs that I've written include:
    - [It’s NeRF or Nothin’!](https://medium.com/becoming-human/its-nerf-or-nothin-ad9e61c66290)
