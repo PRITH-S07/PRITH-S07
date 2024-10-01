@@ -6,8 +6,8 @@
 - ✨ Mathematics powers cross-sectoral data usage.
 - I write blogs too! Do check out my Medium profile: in [TheAIEnthusiast](https://medium.com/@Prith_Sharma)
 - The current blogs that I've written include
- - - [It’s NeRF or Nothin’!](https://medium.com/becoming-human/its-nerf-or-nothin-ad9e61c66290)
- - - [X-Ray Image Segmentation using U-Nets](https://medium.com/becoming-human/x-ray-image-segmentation-using-u-nets-518b51aa0cb5)
+   - [It’s NeRF or Nothin’!](https://medium.com/becoming-human/its-nerf-or-nothin-ad9e61c66290)
+   - [X-Ray Image Segmentation using U-Nets](https://medium.com/becoming-human/x-ray-image-segmentation-using-u-nets-518b51aa0cb5)
 <!--
 **PRITH-S07/PRITH-S07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
