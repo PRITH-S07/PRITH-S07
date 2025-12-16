@@ -1,4 +1,4 @@
-### Ssup 👋
+### Hello! 👋
 
 <!-- - 🔭 Welcome to my GitHub! -->
 - I’m currently doing smtg in AI
