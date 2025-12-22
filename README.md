@@ -1,7 +1,6 @@
 ### Hello! 👋
 
 <!-- - 🔭 Welcome to my GitHub! -->
-- I’m currently doing smtg in AI
 - I write blogs when the stars align. Do check this out: [TheAIEnthusiast](https://medium.com/@Prith_Sharma)
 - Old blogs include:
    - [It’s NeRF or Nothin’!](https://medium.com/becoming-human/its-nerf-or-nothin-ad9e61c66290)
