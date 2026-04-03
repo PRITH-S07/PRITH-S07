@@ -1,7 +1,7 @@
 ### Hello! 👋
 
 <!-- - 🔭 Welcome to my GitHub! -->
-- I write blogs when the stars align. Do check this out: [TheAIEnthusiast](https://medium.com/@Prith_Sharma)
+- Do check out: [TheAIEnthusiast](https://medium.com/@Prith_Sharma)
 - Old blogs include:
    - [DeepSpeed: Revolutionizing Machine Learning at Scale — A Comprehensive Technical Exploration](https://medium.com/@priths_6503/deepspeed-revolutionizing-machine-learning-at-scale-a-comprehensive-technical-exploration-0c893960ccd1)
    - [It’s NeRF or Nothin’!](https://medium.com/becoming-human/its-nerf-or-nothin-ad9e61c66290)
